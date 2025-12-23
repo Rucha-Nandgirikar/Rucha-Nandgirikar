@@ -14,13 +14,12 @@ I’m a **Software Engineer with 3+ years of professional full-stack experience*
 These roles strengthened my foundation in **scalable system design, reliability, security, and real-world production constraints**.
 
 ---
-## ☁️ Cloud & Certifications
+### ☁️ Cloud & Certifications
+- **AWS Certified Solutions Architect – Associate**
+- **AWS Certified Cloud Practitioner**
+- **Certified: Building Generative AI Applications Using Amazon Bedrock**
 
-**AWS Certified Solutions Architect – Associate**
-**AWS Certified Cloud Practitioner**
-**Certified: Building Generative AI Applications Using Amazon Bedrock**
-
-I use AWS extensively across cloud-native, serverless, and GenAI projects, focusing on scalability, reliability, and production readiness.
+I use AWS extensively across **cloud-native, serverless, and GenAI projects**, with a focus on **scalability, reliability, and production readiness**.
 ---
 
 ## 🤖 Transition to AI Engineering
