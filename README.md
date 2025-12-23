@@ -18,8 +18,9 @@ These roles strengthened my foundation in **scalable system design, reliability,
 - **AWS Certified Solutions Architect – Associate**
 - **AWS Certified Cloud Practitioner**
 - **Certified: Building Generative AI Applications Using Amazon Bedrock**
-  -
-I use AWS extensively across **cloud-native, serverless, and GenAI projects**, with a focus on **scalability, reliability, and production readiness**.
+  
+*I use AWS extensively across cloud-native, serverless, and GenAI projects, with a focus on scalability, reliability, and production readiness.*
+
 ---
 
 ## 🤖 Transition to AI Engineering
