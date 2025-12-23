@@ -26,6 +26,13 @@ I’ve intentionally transitioned into **AI Engineering** by designing and shipp
 
 All AI work is **hands-on, project-driven, and open-sourced** in my GitHub repositories.
 
+* Some of my AI engineering work can be found in these repositories:
+
+* Rapid Apply — LLM-powered Chrome extension with RAG for job application automation (https://github.com/Rucha-Nandgirikar/jobSync.ai)
+* Repair Booking Agent — Voice-enabled AI agent built on AWS using Bedrock (https://github.com/Rucha-Nandgirikar/appliance_appointment_booking_assistant)
+* Voice AI Study Companion — Voice-first, adaptive AI tutor for the web. (https://github.com/Rucha-Nandgirikar/voice_ai_study_companion)
+* StatFlow — Natural-language data analysis using MCP tools and LLMs (https://github.com/Rucha-Nandgirikar/statflow)
+
 ---
 
 ## 🚀 Engineering Strengths
@@ -44,13 +51,6 @@ All AI work is **hands-on, project-driven, and open-sourced** in my GitHub repos
 * **Backend:** Java (Spring Boot), Python (Django, FastAPI), Node.js, Laravel
 * **Databases:** PostgreSQL, MySQL, MongoDB, Redis
 * **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD
-
-* Some of my AI engineering work can be found in these repositories:
-
-* Rapid Apply — LLM-powered Chrome extension with RAG for job application automation (https://github.com/Rucha-Nandgirikar/jobSync.ai)
-* Repair Booking Agent — Voice-enabled AI agent built on AWS using Bedrock (https://github.com/Rucha-Nandgirikar/appliance_appointment_booking_assistant)
-* Voice AI Study Companion — Voice-first, adaptive AI tutor for the web. (https://github.com/Rucha-Nandgirikar/voice_ai_study_companion)
-* StatFlow — Natural-language data analysis using MCP tools and LLMs (https://github.com/Rucha-Nandgirikar/statflow)
 ---
 
 ## 🌱 Currently
